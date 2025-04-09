@@ -1,7 +1,7 @@
 # E-Commerce Store SQL Data Analyst Project
 
 ## Project Background 🎯📊
-Understanding sales performance, customer behavior, and product trends is essential for success in the e-commerce industry. This project aims to analyze an e-commerce store's sales data using SQL, uncovering key business insights that drive data-driven decisions. By examining various aspects of sales data—such as revenue trends, product performance, and customer purchasing behavior—we can identify opportunities for business growth and optimization.  
+Understanding sales performance, customer behavior, and product trends is essential for success in the e-commerce industry. This project aims to analyze an e-commerce store's sales data using SQL, uncovering key business insights that drive data-driven decisions. By examining various aspects of sales data such as revenue trends, product performance, and customer purchasing behavior we can identify opportunities for business growth and optimization.  
 
 📌 **Our analysis follows a structured methodology that includes:**  
 
