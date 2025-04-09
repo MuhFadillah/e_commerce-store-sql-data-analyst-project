@@ -29,6 +29,10 @@ The primary objectives of this project include:
 
 ## Executive Summary 📊📈
 
+
+![Image](https://github.com/user-attachments/assets/2cdbca21-1871-42e0-97a0-f5d27d6f4b8c)
+
+
 ### Overview of the Dashboard
 The dashboard provides a comprehensive view of the e-commerce store's sales data, offering insights into revenue trends, product performance, and customer behavior. Key visualizations include:
 - **Total Income & Gross Income**: Monitoring revenue trends over time.
