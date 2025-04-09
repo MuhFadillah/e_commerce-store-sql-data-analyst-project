@@ -28,17 +28,15 @@ The primary objectives of this project include:
 - **11_part_to_whole_analysis** ✅: Analyze how different product categories contribute to total revenue.
 
 ## Executive Summary 📊📈
-
-
-![Image](https://github.com/user-attachments/assets/2cdbca21-1871-42e0-97a0-f5d27d6f4b8c)
-
-
 ### Overview of the Dashboard
 The dashboard provides a comprehensive view of the e-commerce store's sales data, offering insights into revenue trends, product performance, and customer behavior. Key visualizations include:
 - **Total Income & Gross Income**: Monitoring revenue trends over time.
 - **Sales Performance by Category**: Analyzing product categories and their contribution to overall sales.
 - **Unit Sales Trend**: Identifying fluctuations in the number of products sold.
 - **Comparison with Target Income**: Evaluating whether sales targets are being met.
+
+![Image](https://github.com/user-attachments/assets/2cdbca21-1871-42e0-97a0-f5d27d6f4b8c)
+
 
 ### Sales Trends
 The data reveals:
